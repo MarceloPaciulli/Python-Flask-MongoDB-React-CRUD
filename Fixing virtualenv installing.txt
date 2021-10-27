@@ -1,0 +1,16 @@
+
+pip install --user virtualenv
+To create a virtual environment (venv):
+
+python -m virtualenv venv
+To activate:
+
+-cd venv
+-cd Scripts
+-activate.bat
+to deactivate:
+
+-deactivate.bat
+to run venv again just type activate.bat
+
+Note: had problems with the platform integrated terminal, used cmd from within the folder. Hope this helps!
