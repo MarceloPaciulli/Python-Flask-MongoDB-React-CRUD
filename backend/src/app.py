@@ -1,4 +1,4 @@
-import numpy as np
+
 from flask import Flask, request, jsonify
 from flask_pymongo import PyMongo, ObjectId
 from flask_cors import CORS
